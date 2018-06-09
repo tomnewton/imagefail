@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             new Text(
-              'Push the floating action button to kick it off...',
+              'Click the Floating Action Button to kick it off...',
             ),
             new Text(
               '$_counter',
