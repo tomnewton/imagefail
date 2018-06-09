@@ -1,8 +1,3 @@
 # imagefail
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A new Flutter project that demonstrates flutter issue: [https://github.com/flutter/flutter/issues/18323](https://github.com/flutter/flutter/issues/18323)
